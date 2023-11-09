@@ -1,4 +1,4 @@
-![HelOps.io](https://raw.githubusercontent.com/helops-io/test/main/asset/helops.jpg)
+![HelOps.io](https://github.com/helops-io/challenges/blob/main/asset/helops.jpg)
 
 # Admission Test
 
